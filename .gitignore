@@ -3,5 +3,4 @@
 .DS_Store
 __pycache__/
 examples/processing.py
-*.ipynb
 *.egg-info/
