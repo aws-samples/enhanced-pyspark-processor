@@ -7,7 +7,7 @@ Currently, local-mode does not work for `PySparkProcessor` due to YARN not being
 To install:
 
 ```bash
-pip install git+https://gitlab.aws.dev/ai-ml-specialist-sa/amer-aiml-sa/tech-sector/examples/sm-processing-pyspark-local-mode
+pip install git+https://github.com/aws-samples/enhanced-pyspark-processor
 ```
 
 Please refer to the [notebook example](examples/example.ipynb) for usage patterns.
